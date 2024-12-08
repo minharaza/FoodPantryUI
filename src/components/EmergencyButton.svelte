@@ -1,5 +1,5 @@
 <script>
-    export let icon = '//Users/minharaza/Documents/GitHub/FoodPantryUI/FoodPantry/static/emergency-icon.png';
+    export let icon = '/emergency-icon.png'; // Relative path from the `static` folder
   </script>
   
   <div class="emergency-button">
@@ -11,7 +11,7 @@
       position: absolute;
       top: 20px;
       right: 20px;
-      background: red;
+      background: #6F6F70;
       padding: 10px;
       border-radius: 50%;
     }
