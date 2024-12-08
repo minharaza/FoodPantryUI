@@ -4,14 +4,15 @@
     import EmergencyButton from "../components/EmergencyButton.svelte";
     import Map from "../components/Map.svelte";
     import SearchBar from "../components/SearchBar.svelte";
+    
   </script>
   
   <div class="map-page">
     <div class="map-background">
+      <EmergencyButton />
       <SearchBar placeholder="Search something" />
       <ButtonPanel />
       <Map />
-      <EmergencyButton />
       <CurrentLocation location="Clifton — Cincinnati" />
     </div>
   </div>
