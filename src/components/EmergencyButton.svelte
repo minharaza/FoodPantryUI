@@ -9,10 +9,10 @@
   <style>
     .emergency-button {
       position: absolute;
-      top: 20px;
-      right: 20px;
+      top: 40px;
+      right: 40px;
       background: #6F6F70;
-      padding: 10px;
+      padding: 20px;
       border-radius: 50%;
     }
     .emergency-button img {
