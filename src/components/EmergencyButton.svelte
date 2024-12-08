@@ -1,5 +1,5 @@
 <script>
-    export let icon = '/path-to-emergency-icon.png';
+    export let icon = '//Users/minharaza/Documents/GitHub/FoodPantryUI/FoodPantry/static/emergency-icon.png';
   </script>
   
   <div class="emergency-button">
